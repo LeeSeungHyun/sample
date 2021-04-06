@@ -1,1 +1,2 @@
-new Promise();
+console.log();
+var a = 10;
